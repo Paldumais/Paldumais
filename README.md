@@ -1,4 +1,15 @@
-Introducing myself: A tech whiz from French Canada who turns geek into chic. 
-When he's not decoding binary jokes, he's decoding the latest tech trends. 
-Catch him blogging on pald.me, toggling between gadgets, and sipping maple syrup lattes. 
-Oui, I'm the real CTRL+ALT+DELight in the tech world! 🍁💻🔥
+# Hi there, I'm Paldumais! 👋
+
+![GitHub followers](https://img.shields.io/github/followers/Paldumais?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Paldumais?style=social)
+
+### About Me
+
+I have a passion for technology, coding, and testing. I enjoy exploring new tech trends and improving my skills through various projects.
+
+- 🌱 I’m currently learning more about software development and honing my coding skills.
+- 💻 I love working on tech projects, especially those that involve testing and experimenting with new technologies.
+- ⚙️ My tech stack includes Python, JavaScript, and more.
+- 🎮 In my free time, I enjoy gaming and exploring new software tools.
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Paldumais)
